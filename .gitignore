@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+*.o
+*.out
+
+# ignore ALL files in ANY directory named temp
+docs/
+build/
+bin/
